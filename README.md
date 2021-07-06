@@ -1,6 +1,6 @@
 # The MovieDb API
 
-Building 23 react projects
+Fetching and designing from an api
 
 ## Usage
 
